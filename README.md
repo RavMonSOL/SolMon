@@ -31,10 +31,3 @@ This project uses both assets I developed as well as other assets that have been
 | Game BG Music               | xdeviruchi       | [xdeviruchi Sound Cloud](https://soundcloud.com/xdeviruchi)                                       |
 | Sound Effects               | leohpaz          | [RPG Essentials SFX Free](https://leohpaz.itch.io/rpg-essentials-sfx-free)                        |
 
-## Issues
-
-For any issues you encounter, please open a new [GitHub Issue](https://github.com/devshareacademy/monster-tamer/issues) on this project.
-
-## Questions, Comments, and Suggestions
-
-If you have any questions, comments, or suggestions for future content, please feel free to open a new [GitHub Discussion](https://github.com/devshareacademy/monster-tamer/discussions) on this project.
